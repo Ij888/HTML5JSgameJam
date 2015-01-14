@@ -20,6 +20,6 @@ function init() {
 }
 
 function update(){
-    context.fillRect( 10, 10, 40, 380, "#000000")
+    context.fillRect( 10, 10, 40, 380, "#000000");
 }
 
