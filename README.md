@@ -1,2 +1,2 @@
 # HTML5JSgameJam
-fun with JavaScript
+fun with JavaScript. Hack some JS for much win!
